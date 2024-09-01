@@ -71,3 +71,5 @@ Below you can see a schematic image to facilitate the wiring of cables from the 
 - The Controller Animal Feed Automatic provides an effective way to manage the feed levels in animal feeders. The system ensures that you are notified when the feed level is low, preventing your animals from running out of food.
 
 - When the feed height is <15% then an alarm will sound and The LCD screen will display the text “ISI PAKAN…!!!”
+
+#### @Copyright 2024 | Controller-Animal-Feed-Automatic
